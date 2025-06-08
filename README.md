@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot , Microservices**
 
-- 📫 How to reach me **bhuvan27112003@gmail.comProfile image bhuvan27112003@gmail.com**
+- 📫 How to reach me **bhuvan27112003@gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
