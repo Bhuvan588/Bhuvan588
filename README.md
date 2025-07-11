@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan588&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan588" /> </p>
 
-- 🔭 I’m currently working on [Microservices in Spring Boot]([https://github.com/Bhuvan588/Microservices-SpringBoot-Sample-Demo](https://github.com/Bhuvan588/CanvasCart---An-Ecommerce-platform-for-artists))
+- 🔭 I’m currently working on [Microservices in Spring Boot]([https://github.com/Bhuvan588/CanvasCart---An-Ecommerce-platform-for-artists])
 
 - 🌱 I’m currently learning **Spring Boot , Microservices**
 
